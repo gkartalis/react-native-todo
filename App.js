@@ -5,9 +5,7 @@ const App = () => {
   return (
     <>
       <StatusBar barStyle="dark-content" />
-      <SafeAreaView>
-
-      </SafeAreaView>
+      <SafeAreaView testID="mainApp" />
     </>
   );
 };
