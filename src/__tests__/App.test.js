@@ -1,6 +1,6 @@
-/** 
+/**
  * Test cases that should be covered
- * 
+ *
  * Render without crashing
  * Render two default ToDo items
  * Render an input field for typing up new ToDo items
@@ -12,4 +12,4 @@
  * From the two default items in ToDo, if the first ToDo item has been removed from the app, the second item should now become the first (and only) item.
  * For the data being passed down from ToDo to ToDoItem as props, each ToDoItem should render the text that was passed down to it.
  * Each ToDoItem should render a ‘Delete’ button.
- * */ 
+ * */
